@@ -5,6 +5,12 @@ Diana 是一個以 Python 建構的 **Persistent AI Companion / AI Agent 原型*
 它並不是單純將 Discord 訊息轉送給 LLM 的聊天機器人。Diana 本身會持續運行並維護自己的記憶、角色設定、使用者關係與系統狀態；LLM 則作為需要理解、推理與生成內容時使用的智能模組。
 
 目前 Discord 是 Diana 的主要互動介面。
+## 📖 Project Documents
+
+如果你對 Diana 為什麼誕生，以及這個專案背後的想法有興趣：
+
+- [開發故事：從 Neuro-sama 到 Diana 的八年]
+- [Diana AI Agent 開發與效能優化日誌]
 
 ---
 
