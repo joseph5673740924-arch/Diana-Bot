@@ -1,0 +1,17 @@
+[
+  {
+    "name": "拉拉主人的袖子",
+    "keywords": ["拉拉主人的袖子", "拉主人的袖子", "拉拉你的袖子", "扯扯主人的衣角", "拉住主人的袖子"],
+    "file": "action_pull_sleeve.png"
+  },
+  {
+    "name": "早晨揉眼睛",
+    "keywords": ["揉揉眼睛", "揉眼睛", "揉了揉眼睛"],
+    "file": "action_morning_rub_eyes.jpg"
+  },
+  {
+    "name": "歪頭想了想",
+    "keywords": ["歪頭想了想", "歪頭想", "歪頭思考", "歪著頭想"],
+    "file": "action_head_tilt_thinking.jpg"
+  }
+]

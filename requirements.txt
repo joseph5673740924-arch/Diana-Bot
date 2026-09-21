@@ -1,0 +1,6 @@
+discord.py
+openai
+chromadb
+sentence-transformers
+aiohttp
+google-genai
